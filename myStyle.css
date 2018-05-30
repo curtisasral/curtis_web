@@ -2,6 +2,11 @@
 /*this is a multi-line comment */
 //we will choose body background color
 
-body{
-  background-color: #FF0000;
-  }
+body {
+			background-color:#F5FFFA;
+      color: #FF0000;
+		}
+		
+		h1 {
+			font-family: Syncopate;
+		}
