@@ -1,12 +1,8 @@
-//this is a single line comment
-/*this is a multi-line comment */
-//we will choose body background color
-
 body {
-			background-color:#F5FFFA;
-      color: #FF0000;
-		}
+	background-color:#F5FFFA;
+      	color: #FF0000;
+}
 		
-		h1 {
-			font-family: Syncopate;
-		}
+h1 {
+	font-family: Syncopate;
+}
